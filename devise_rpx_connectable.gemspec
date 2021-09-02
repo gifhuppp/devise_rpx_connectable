@@ -23,5 +23,5 @@ Gem::Specification.new do |gem|
   gem.add_development_dependency(%q<bundler>, ["> 1.1.0"])
   gem.add_development_dependency(%q<rake>, ["~> 0.9.2.2"])
   gem.add_development_dependency(%q<rspec>, ["~> 2.8.0"])
-  gem.add_development_dependency(%q<rdoc>, ["~> 3.11"])
+  gem.add_development_dependency(%q<rdoc>, "~> 6.3")
 end
